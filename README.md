@@ -2,8 +2,8 @@
 ##Kimball's Dimensional Modeling techniques
 
 ### As Public Housing Agencies tend to inspect the development sites/ properties that are subsidized by HUD, and give Inspection Scores as well assign a certain performance Cost to the US  tax payers. 
-#### * * As a Data Analyst, I have to consider common pitfalls while modeling the dimensional model, and to provide a key analysis which exactly fits the analysis.
-#### * * DIMENSIONAL MODELS ADDRESSES THE PROBLEM OF OVERLY COMPLEX SCHEMA ,AND THEY ARE MOSRE ROBUST AS RDBMSs CAN'T QUERY NORMALIZATION MODELS EFFICIENTLY.
+####  As a Data Analyst, I have to consider common pitfalls while modeling the dimensional model, and to provide a key analysis which exactly fits the analysis.
+####  DIMENSIONAL MODELS ADDRESSES THE PROBLEM OF OVERLY COMPLEX SCHEMA ,AND THEY ARE MOSRE ROBUST AS RDBMSs CAN'T QUERY NORMALIZATION MODELS EFFICIENTLY.
 
 ##### Identify Facts
 As fact tables store the performance measurements, the facts are the measures or outcomes of an Inspection in this Scenario and they are continuous and sometimes discrete in nature.
