@@ -29,4 +29,4 @@ INSPECTION_DATE
  
  * * As the Management wants to check which Public Housing Agencies eevidenced a increase in COST with respect to previous Inspection, I attached a SQL file(Well commented) and that shows the calculations to get and OUTPUT that contains PHA's that have evidenced an increase in Cost and the % change in COST for those PHA's.
 
-
+##### ![Screenshot](screens.png)
